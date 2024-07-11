@@ -11,7 +11,7 @@ Desenvolver um portal de campanhas de gamificação onde administradores podem g
 ### Requisitos Básicos
 
 #### Administradores
-- **Cadastrar Desafios**: Incluir nome do desafio, categoria, e regras de pontuação (por exemplo, a cada R$600 em vendas na categoria Vida, acumula 1 ponto).
+- **Cadastrar Desafios**: Incluir nome do desafio, descrição detalhada do desafio, identidade visual (banner), e regras de pontuação (por exemplo, a cada R$600 em vendas na categoria Vida, acumula 1 ponto). Você pode incluir mais campos, se achar necessário.
 - **Gerenciar Usuários**: Cadastrar, editar, excluir e visualizar corretores e outros administradores.
 - **Atribuir Desafios**: Atribuir desafios a corretores específicos através do CPF.
 
