@@ -1,4 +1,4 @@
-# Desafio de Recrutamento - Desenvolvedor Python/Django
+# Desafio - Desenvolvedor Python/Django
 
 ## Bem-vindo ao Desafio de Gamificação da Salesrun!
 
