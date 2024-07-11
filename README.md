@@ -30,7 +30,7 @@ Desenvolver um portal de campanhas de gamificação onde administradores podem g
 ### Tecnologias
 
 - **Backend:** Django
-- **Frontend:** Django Templates (SPA com React ou Angular como diferencial)
+- **Frontend:** Django Templates
 
 ### Entrega
 
